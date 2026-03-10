@@ -4,7 +4,8 @@
 
 ## Test Output
 
-![Test Output](https://raw.githubusercontent.com/rchong26-code/pagila-hw/main/testcase.png)
+
+![Test Output](test-pass.png)
 
 
 
